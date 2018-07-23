@@ -6,8 +6,12 @@
       <class name="TestCases">
         <methods>
           <include name="stopApplication"/>
+          <include name="Logout"/>
           <include name="lounchAPP"/>
+          <include name="Community"/>
+          <include name="Home"/>
           <include name="login"/>
+          <include name="SearchUser"/>
         </methods>
       </class> <!-- TestCases -->
     </classes>

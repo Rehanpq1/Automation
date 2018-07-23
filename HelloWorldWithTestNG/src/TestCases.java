@@ -79,10 +79,10 @@ public class TestCases {
 		}
 	}
 
-	@Test(priority = 3)
+	@Test(priority = 4)
 	public void Home() {
 		try {
-			System.out.println("3.	Home Page Test");
+			System.out.println("4.	Home Page Test");
 
 			driver.findElement(By.xpath(XpathConstant.Menu)).click();
 
@@ -98,10 +98,10 @@ public class TestCases {
 		}
 	}
 
-	@Test(priority = 4)
+	@Test(priority = 3)
 	public void Community() {
 		try {
-			System.out.println("4.	Community");
+			System.out.println("3.	Community");
 
 			driver.findElement(By.xpath(XpathConstant.Menu)).click();
 
