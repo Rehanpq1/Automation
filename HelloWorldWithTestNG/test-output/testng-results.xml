@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="178378" started-at="2018-07-23T06:46:02Z" finished-at="2018-07-23T06:49:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="178378" started-at="2018-07-23T06:46:02Z" finished-at="2018-07-23T06:49:00Z">
+      <class name="TestCases">
+        <test-method status="PASS" signature="lounchAPP()[pri:0, instance:TestCases@4671e53b]" name="lounchAPP" is-config="true" duration-ms="28811" started-at="2018-07-23T06:46:02Z" finished-at="2018-07-23T06:46:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchAPP -->
+        <test-method status="PASS" signature="login()[pri:1, instance:TestCases@4671e53b]" name="login" duration-ms="23994" started-at="2018-07-23T06:46:31Z" finished-at="2018-07-23T06:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="SearchUser()[pri:2, instance:TestCases@4671e53b]" name="SearchUser" duration-ms="10968" started-at="2018-07-23T06:46:55Z" finished-at="2018-07-23T06:47:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchUser -->
+        <test-method status="PASS" signature="Home()[pri:3, instance:TestCases@4671e53b]" name="Home" duration-ms="3510" started-at="2018-07-23T06:47:06Z" finished-at="2018-07-23T06:47:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method status="PASS" signature="Community()[pri:4, instance:TestCases@4671e53b]" name="Community" duration-ms="2644" started-at="2018-07-23T06:47:09Z" finished-at="2018-07-23T06:47:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Community -->
+        <test-method status="PASS" signature="Logout()[pri:5, instance:TestCases@4671e53b]" name="Logout" duration-ms="108412" started-at="2018-07-23T06:47:12Z" finished-at="2018-07-23T06:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="stopApplication()[pri:0, instance:TestCases@4671e53b]" name="stopApplication" is-config="true" duration-ms="0" started-at="2018-07-23T06:49:00Z" finished-at="2018-07-23T06:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopApplication -->
+      </class> <!-- TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

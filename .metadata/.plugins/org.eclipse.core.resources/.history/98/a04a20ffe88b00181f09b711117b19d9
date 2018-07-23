@@ -1,0 +1,11 @@
+
+public class XpathConstant {
+
+	public String SearchPath ="//*[@id='action_search']";
+	
+	public String SearchKeyBoard ="//*[@id='searchKeyword']";
+	
+	public String LogoutPath ="//*[@resource-id='app.globallogic.com.glo:id/logout_LL']";
+	
+	public String SearchPath ="//*[@id='action_search']";
+}

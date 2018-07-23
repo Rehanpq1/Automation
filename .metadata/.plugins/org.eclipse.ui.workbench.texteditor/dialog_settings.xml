@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="@Test(priority = 2)" key="selection"/>
+		<list key="findhistory">
+			<item value="@Test(priority = 2)"/>
+			<item value=" DesiredCapabilities capabilities = new DesiredCapabilities();"/>
+			<item value="&#x09;&#x09;caps.setCapability(&quot;appPackage&quot;, &quot;app.globallogic.com.glo&quot;);"/>
+		</list>
+	</section>
+</section>
