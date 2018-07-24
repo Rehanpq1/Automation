@@ -1,3 +1,4 @@
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeClass;
@@ -24,7 +25,7 @@ public class TestCases {
 		DesiredCapabilities capabilities = new DesiredCapabilities();
 		capabilities.setCapability(CapabilityType.BROWSER_NAME, "");
 		capabilities.setCapability("deviceName", "Redmi");
-		capabilities.setCapability("udid", "2d86975d7ce5");
+		capabilities.setCapability("udid", "ENU7N15C15000700");//"2d86975d7ce5");
 		capabilities.setCapability("platformVersion", "7.1.2");
 		capabilities.setCapability("platformName", "Android");
 		capabilities.setCapability("appPackage", "app.globallogic.com.glo");
