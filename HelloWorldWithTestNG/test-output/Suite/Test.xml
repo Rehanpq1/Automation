@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="GL-VS-WIN10-1" tests="5" failures="0" timestamp="24 Jul 2018 10:12:17 GMT" time="52.651" errors="0">
+  <testcase name="login" time="21.357" classname="TestCases"/>
+  <testcase name="SearchUser" time="8.232" classname="TestCases"/>
+  <testcase name="Community" time="2.365" classname="TestCases"/>
+  <testcase name="Home" time="2.21" classname="TestCases"/>
+  <testcase name="Logout" time="10.264" classname="TestCases"/>
+</testsuite>
